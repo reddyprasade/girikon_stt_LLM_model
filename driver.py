@@ -25,7 +25,6 @@ from prompt import prompt_gen
 
 #from database import db
 # client = OpenAI(api_key=os.getenv("OPENAIKEY"))
-client = OpenAI(api_key = "sk-proj-DWSYJtQ1xIgsSm0sxcYwT3BlbkFJj1NgxBy0Eye2U6v7B5Pm")
 # from stt_model import girikon_stt_model
 
 load_dotenv()
